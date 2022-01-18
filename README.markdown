@@ -1,3 +1,5 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 This is a collection of code/experiments. Consider it all BSD licensed unless otherwise stated.
 
 **calendar** is a Coffescript/Javascript to generate a Semantic HTML calendar to be styled by CSS. It is
